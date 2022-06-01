@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Introdução ao Javascript</title>
+</head>
+
+<body>
+    <h1 class="header">Introdução ao Javascript - Dio</h1>
+    <div class="container">
+        <!-- Início Contador -->
+        <div class="wrapper">
+            <div class="description">
+                <h1>Contador</h1>
+                <p>Clique nos botões para alterar o valor.</p>
+            </div>
+            <div id="counter">
+                <button class="btn-counter" name="subtrair" onclick="decrement()">-</button>
+                <span id="currentNumber">0</span>
+                <button class="btn-counter" name="adicionar" onclick="increment()">+</button>
+            </div>
+        </div>
+        <!-- Fim Contador -->
+        <!-- Início To-Do List -->
+        <div class="wrapper">
+            <div class="description">
+                <h1>To-Do List</h1>
+                <p>Adicione um novo item a lista de tarefas.</p>
+            </div>
+            <div id="list">
+                <form id="task-form">
+                    <input id="task-input" name="tarefa" type="text" placeholder="Digite aqui sua tarefa" />
+                    <button type="submit">Adicionar</button>
+                </form>
+                <div id="tasks"></div>
+            </div>
+        </div>
+        <!-- Fim To-Do List -->
+    </div>
+</body>
+<script src="assets/js/scripts.js"></script>
+
+</html>
