@@ -1,4 +1,4 @@
-# Sintaxe e Operadores
+# Variáveis e Tipos
 
  Projetos referentes ao curso "Variáveis e Tipos" ministrado pela [Digital Innovation One.](https://web.dio.me/home)
 
