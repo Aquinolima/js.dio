@@ -6,5 +6,6 @@ Este é um repositório para as atividades práticas realizadas..
 
 ## Conteúdo
 
-- Introdução ao javascript.
-- sintaxe e operadores.
+- Introdução ao Javascript.
+- Sintaxe e Operadores.
+- Variáveis e Tipos
