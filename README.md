@@ -8,4 +8,5 @@ Este é um repositório para as atividades práticas realizadas..
 
 - Introdução ao Javascript.
 - Sintaxe e Operadores.
-- Variáveis e Tipos
+- Variáveis e Tipos.
+- Módulos.
