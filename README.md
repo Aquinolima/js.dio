@@ -10,3 +10,6 @@ Este é um repositório para as atividades práticas realizadas..
 - Sintaxe e Operadores.
 - Variáveis e Tipos.
 - Módulos.
+- Funções.
+- Coleções Chaveadas.
+- Map, Filter e Reduce.
