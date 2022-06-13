@@ -13,3 +13,7 @@ Este é um repositório para as atividades práticas realizadas..
 - Funções.
 - Coleções Chaveadas.
 - Map, Filter e Reduce.
+- Orientação a Objetos.
+- Debugging e Manipulação de Erros.
+- DOM
+- Javascript Assíncrono.
